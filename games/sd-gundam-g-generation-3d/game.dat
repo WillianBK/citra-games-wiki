@@ -1,0 +1,9 @@
+title = "SD Gundam G Generation 3D"
+description = "SD Gundam G Generation is a Strategy game with isometric view, where you should keep a frigate of Space ships with giant robots!\nSD Gundam G Generation 3D takes advantage of the 3DS's capabilities and lets the player experience solid 3D maps and combat screens with an original scenario based on Gundam. Mobile suits move in and out in impressive combat scenes."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000071A00"
+region = "jpn"
+release_date = "2011-12-22"
